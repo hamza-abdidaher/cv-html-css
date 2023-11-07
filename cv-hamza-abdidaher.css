@@ -1,0 +1,27 @@
+h1 {
+    text-align: center; color: lightseagreen;
+
+
+}
+
+
+body{
+    
+background:url(./image/lion.jpg) center/cover;
+
+}
+
+header p {
+            color: beige;
+}
+
+h2{
+    color: white;
+}
+
+p {
+    color: ivory;
+}
+h3 {
+    color: rgb(42, 83, 165);
+}
